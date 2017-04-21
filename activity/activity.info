@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Traffic 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.trafficActivity
+bundle_id = net.gcompris.trafficActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
